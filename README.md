@@ -27,10 +27,7 @@ Simple online shopping cart web application to manage a shopping cart for users.
 - [Project folder structure and Frameworks, Libraries](#project-folder-structure-and-frameworks-libraries)
   - [Project folder structure](#project-folder-structure)
   - [Frameworks and Libraries](#frameworks-and-libraries)
-- [Version](#version)
-- [License](#license)
-- [References](#references)
-- [Contact Details](#contact-details)
+
 
 ## System Design
 
@@ -185,20 +182,3 @@ The Frameworks/Libraries used in the project and their purposes:
 - spring-boot-starter-security: for using Spring Security.
 - spring-security-test: for the testing Spring Security.
 - modelmapper: to make object mapping easy, by automatically determining how one object model maps to another, based on conventions.
-
-## Version
-  1.0.0
-
-## License
-  Copyright &copy; 2023. All Right Reserved.<br>
-  This project is licensed under the [MIT License](LICENSE.txt)
-
-## References
-- [Designing a microservices architecture](https://docs.microsoft.com/en-us/azure/architecture/microservices/design/) - *Azure Architecture Center | Microsoft Docs*
-- [Cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) - *Azure Architecture Center | Microsoft Docs*
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-
-## Contact Details
-
-* Email: visalsrimanga@gmail.com
-* Linkedin: Visal Srimanga
